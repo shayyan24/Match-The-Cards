@@ -49,23 +49,3 @@ Welcome to **Match The Cards**, a fun and challenging card-matching game where y
     ```bash
     python match_the_cards.py
     ```
-
-## 🔧 Customization
-
-Feel free to modify the game to add new features, change the design, or adjust the card deck! Here are a few ideas:
-
-- Add more card suits or different game themes.
-- Implement power-ups or hints for players.
-- Add music or sound effects for a more immersive experience.
-
-## 🤝 Contributions
-
-If you want to contribute to this project, feel free to fork the repository, submit pull requests, or report issues. Your contributions are always welcome!
-
-## 📜 License
-
-This game is open-source and available under the [MIT License](LICENSE). Feel free to modify and distribute it according to the license terms.
-
----
-
-Enjoy playing **Match The Cards**, and may you match those pairs faster than anyone else! 🃏♠️♥️♣️♦️
